@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: #202640;
+}
+nav {
+    padding: 1rem;
+    border-bottom: 1px solid #ff5540;
+}
+
+h2 {
+    color: #ff5540;
+}
+
+.box {
+    border: 1px dashed #ff5540;
+    margin: 2rem;
+    padding: 0.5rem;
+    justify-content: center;
+    text-align: center;
+}
+
+h3 {
+    color: #ff5540;
+}
